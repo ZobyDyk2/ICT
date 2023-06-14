@@ -1,0 +1,1 @@
+Vytvořil jsem dobrodružnou hru, kde jde o zachránění princezny. Hrou procházíte vybíráním si kudy půjdete, jaké schopnosti použijete atd. Hra se dá stále rozšiřovat přidáváním nových cest a podobných věcí.
